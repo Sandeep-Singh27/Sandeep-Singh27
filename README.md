@@ -8,33 +8,57 @@ My interests revolve around backend engineering, AI-powered applications, comput
 
 ---
 
-### 🧰 Technologies & Tools
+### ⚡ Technologies & Tools
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="42" height="42" alt="Go"/>
+</p>
 
-**Frameworks & Technologies**
+**Frameworks & Libraries**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
-![Ultralytics](https://img.shields.io/badge/Ultralytics-111F68?style=flat-square)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="42" height="42" alt="FastAPI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="42" height="42" alt="OpenCV"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jinja/jinja-original.svg" width="42" height="42" alt="Jinja2"/>
+</p>
+
+**Infrastructure & Tools**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" height="42" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="42" height="42" alt="Redis"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="42" height="42" alt="Nginx"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="42" height="42" alt="Ansible"/>
+</p>
 
 **Operating Systems**
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42" height="42" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="42" height="42" alt="Windows"/>
+</p>
+
+**AI & Computer Vision**
+
+- LangGraph
+- Ultralytics YOLO
+- OpenCV
+
+**Programming Concepts**
+
+- Asynchronous programming
+- Multithreading & multiprocessing
+- Concurrent execution
+- Socket programming
 
 ---
 
 ### 🚀 Projects
 
-| Project | Description |
+| **Project** | **Description** |
 |:--|:--|
 | [ONVIF Discovery & RTSP Engine](https://github.com/Sandeep-Singh27/onvif-discovery-rtsp-engine) | Network discovery and RTSP camera connectivity |
 | [AI Agent Planner & Document Maker](https://github.com/Sandeep-Singh27/AI-Agent-Planner-and-Document-Maker) | AI-powered planning and document generation |
@@ -60,3 +84,9 @@ Some experiments and projects:
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sandeep-Singh27)
 [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sandeep-singh27.vercel.app/)
+
+---
+
+<p align="center">
+  <i>Understand the fundamentals. Build the system. Break things. Learn. Repeat.</i>
+</p>
