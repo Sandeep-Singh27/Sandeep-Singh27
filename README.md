@@ -56,34 +56,7 @@ Some experiments and projects:
 
 ---
 
-### 🔭 Areas of Interest
-
-- Backend architecture and distributed systems
-- AI agents and workflow orchestration
-- Computer vision and video analytics
-- Network programming and protocol internals
-- Linux and operating system internals
-- Infrastructure and deployment engineering
-- Systems programming with Go
-
----
-
-### 📈 GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sandeep-Singh27&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep-Singh27&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
-
 ### 🔗 Find Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sandeep-Singh27)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/Sandeep-Singh27/Personal-Portfolio)
-
----
-
-<p align="center">
-  <i>Understand the fundamentals. Build the system. Break things. Learn. Repeat.</i>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sandeep-singh27.vercel.app/)
